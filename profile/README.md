@@ -13,7 +13,6 @@ VDS <sup><sup>*KVM*</sup></sup>
     <th rowspan="2" align="center">План</th>
     <th rowspan="2" align="center">Virt</th>
     <th rowspan="2" align="center">BIOS</th>
-    <th rowspan="2" align="center">IP</th>
     <th rowspan="2" align="center">Root</th>
     <th rowspan="2" align="center">SSH</th>
     <th rowspan="2" align="center">Docker</th>
@@ -37,7 +36,6 @@ VDS <sup><sup>*KVM*</sup></sup>
     <td align="center">VDS</td>
     <td align="center">KVM</td>
     <td align="center">SeaBIOS</td>
-    <td align="center">✔️</td>
     <td align="center">✔️</td>
     <td align="center">✔️</td>
     <td align="center">✔️</td>
