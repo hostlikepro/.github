@@ -18,7 +18,6 @@ VDS <sup><sup>*KVM*</sup></sup>
     <th rowspan="2" align="center">SSH</th>
     <th rowspan="2" align="center">Docker</th>
     <th rowspan="2" align="center">Keitaro</th>
-    <th rowspan="2" align="center">VNC</th>
     <th colspan="2" align="center">Debian</th>
     <th colspan="2" align="center">Ubuntu</th>
     <th align="center">CentOS</th>
@@ -38,7 +37,6 @@ VDS <sup><sup>*KVM*</sup></sup>
     <td align="center">VDS</td>
     <td align="center">KVM</td>
     <td align="center">SeaBIOS</td>
-    <td align="center">✔️</td>
     <td align="center">✔️</td>
     <td align="center">✔️</td>
     <td align="center">✔️</td>
