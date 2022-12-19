@@ -13,7 +13,7 @@ VDS <sup><sup>*KVM*</sup></sup>
     <th>План</th>
     <th>Virt-on</th>
     <th>BIOS</th>
-    <th>GPU</th>
+    <th>CPU</th>
     <th>Core</th>
     <th>RAM</th>
     <th>Disk</th>
