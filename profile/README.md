@@ -32,10 +32,14 @@ logo.png
 <img height="48" width="48" src="https://cdn.simpleicons.org/SQlite" /><img height="6" width="6" src="https://cdn.simpleicons.org/amd/00000000" />
 <img height="48" width="48" src="https://cdn.simpleicons.org/MySQL" /><img height="6" width="6" src="https://cdn.simpleicons.org/amd/00000000" />
 <img height="48" width="48" src="https://cdn.simpleicons.org/MariaDB" /><img height="6" width="6" src="https://cdn.simpleicons.org/amd/00000000" />
+<img height="48" width="48" src="https://cdn.simpleicons.org/phpmyadmin" /><img height="6" width="6" src="https://cdn.simpleicons.org/amd/00000000" />
 <img height="48" width="48" src="https://cdn.simpleicons.org/qemu" /><img height="6" width="6" src="https://cdn.simpleicons.org/amd/00000000" />
 <img height="48" width="48" src="https://cdn.simpleicons.org/apache" /><img height="6" width="6" src="https://cdn.simpleicons.org/amd/00000000" />
 <img height="48" width="48" src="https://cdn.simpleicons.org/Cloudflare" /><img height="6" width="6" src="https://cdn.simpleicons.org/amd/00000000" />
 <img height="48" width="48" src="https://cdn.simpleicons.org/Letsencrypt" /><img height="6" width="6" src="https://cdn.simpleicons.org/amd/00000000" />
+<img height="48" width="48" src="https://cdn.simpleicons.org/php" /><img height="6" width="6" src="https://cdn.simpleicons.org/amd/00000000" />
+<img height="48" width="48" src="https://cdn.simpleicons.org/go" /><img height="6" width="6" src="https://cdn.simpleicons.org/amd/00000000" />
+<img height="48" width="48" src="https://cdn.simpleicons.org/python" /><img height="6" width="6" src="https://cdn.simpleicons.org/amd/00000000" />
   
 <img height="48" width="48" src="https://cdn.simpleicons.org/amd/ED1C24" /><img height="6" width="6" src="https://cdn.simpleicons.org/amd/00000000" />
 <picture>
