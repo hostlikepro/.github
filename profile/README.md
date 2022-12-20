@@ -25,7 +25,12 @@ logo.png
 <img height="46" width="46" src="https://cdn.simpleicons.org/freebsd/" /><img height="6" width="6" src="https://cdn.simpleicons.org/amd/00000000" />
 <img height="48" width="48" src="https://cdn.simpleicons.org/docker" /><img height="6" width="6" src="https://cdn.simpleicons.org/amd/00000000" />
 <img height="48" width="48" src="https://cdn.simpleicons.org/kubernetes" /><img height="6" width="6" src="https://cdn.simpleicons.org/amd/00000000" />
-  
+<img height="48" width="48" src="https://cdn.simpleicons.org/proxmox" /><img height="6" width="6" src="https://cdn.simpleicons.org/amd/00000000" />
+<img height="48" width="48" src="https://cdn.simpleicons.org/nginx" /><img height="6" width="6" src="https://cdn.simpleicons.org/amd/00000000" />
+<img height="48" width="48" src="https://cdn.simpleicons.org/roundcube" /><img height="6" width="6" src="https://cdn.simpleicons.org/amd/00000000" />
+<img height="48" width="48" src="https://cdn.simpleicons.org/qemu" /><img height="6" width="6" src="https://cdn.simpleicons.org/amd/00000000" />
+<img height="48" width="48" src="https://cdn.simpleicons.org/apache" /><img height="6" width="6" src="https://cdn.simpleicons.org/amd/00000000" />
+<img height="48" width="48" src="https://cdn.simpleicons.org/Cloudflare" /><img height="6" width="6" src="https://cdn.simpleicons.org/amd/00000000" />
   
 <img height="48" width="48" src="https://cdn.simpleicons.org/amd/ED1C24" /><img height="6" width="6" src="https://cdn.simpleicons.org/amd/00000000" />
 <picture>
