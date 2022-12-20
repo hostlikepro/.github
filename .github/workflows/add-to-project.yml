@@ -16,4 +16,3 @@ jobs:
           # to the issue
           project-url: https://github.com/orgs/hostlikepro/projects/4
           github-token: ${{ secrets.ADD_TO_PROJECT_PAT }}
-          labeled: all
