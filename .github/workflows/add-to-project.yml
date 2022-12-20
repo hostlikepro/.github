@@ -16,3 +16,5 @@ jobs:
           # to the issue
           project-url: https://github.com/orgs/hostlikepro/projects/4
           github-token: ${{ secrets.ADD_TO_PROJECT_PAT }}
+          labeled: dev, web, seo, help, question, feature, cs_adm
+          label-operator: OR
