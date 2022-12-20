@@ -13,13 +13,18 @@ logo.png
 
 **Partners**
 -------------
- <img height="6" width="6" src="https://cdn.simpleicons.org/amd/00000000" /><img height="32" width="32" src="https://cdn.simpleicons.org/Linux/" /><img height="6" width="6" src="https://cdn.simpleicons.org/amd/00000000" /> 
-  <picture>
+<img height="48" width="48" src="https://cdn.simpleicons.org/Linux/" /><img height="6" width="6" src="https://cdn.simpleicons.org/amd/00000000" /> 
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/LinuxContainers/00ffffff">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/LinuxContainers/">
-  <img height="32" width="32" alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
-  <img height="6" width="6" src="https://cdn.simpleicons.org/amd/00000000" /><img height="32" width="32" src="https://cdn.simpleicons.org/Debian/A81D33" /><img height="6" width="6" src="https://cdn.simpleicons.org/amd/00000000" /><img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu/" /><img height="6" width="6" src="https://cdn.simpleicons.org/amd/00000000" />
+  <img height="48" width="48" alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture><img height="1" width="1" src="https://cdn.simpleicons.org/amd/00000000" />
+<img height="48" width="48" src="https://cdn.simpleicons.org/Debian/A81D33" />
+<img height="48" width="48" src="https://cdn.simpleicons.org/ubuntu/" /><img height="6" width="6" src="https://cdn.simpleicons.org/amd/00000000" />
+<img height="48" width="48" src="https://cdn.simpleicons.org/centos/0000FF" /><img height="6" width="6" src="https://cdn.simpleicons.org/amd/00000000" />
+<img height="46" width="46" src="https://cdn.simpleicons.org/freebsd/" /><img height="6" width="6" src="https://cdn.simpleicons.org/amd/00000000" />
+<img height="48" width="48" src="https://cdn.simpleicons.org/docker" /><img height="6" width="6" src="https://cdn.simpleicons.org/amd/00000000" />
+<img height="48" width="48" src="https://cdn.simpleicons.org/kubernetes" /><img height="6" width="6" src="https://cdn.simpleicons.org/amd/00000000" />
   
   
 <img height="48" width="48" src="https://cdn.simpleicons.org/amd/ED1C24" /><img height="6" width="6" src="https://cdn.simpleicons.org/amd/00000000" />
