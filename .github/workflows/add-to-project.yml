@@ -1,19 +1,28 @@
-name: Add issues to project
+name: Manage Your Labels
 
 on:
-  issues:
-    types:
-      - opened
-      - labeled
+  push:
+    branches:
+      - 'main'
+    paths:
+      - '.github/labels.yml'
+      - '.github/workflows/manage-your-labels.yml'
 
 jobs:
-  add-to-general:
-    name: Add issue to General Panel
+  labeler:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/add-to-project@v0.4.0
+      -
+        name: Checkout
+        uses: actions/checkout@v3
+      -
+        name: Run Labeler
+        if: success()
+        uses: crazy-max/ghaction-github-labeler@v4
         with:
-          project-url: https://github.com/orgs/hostlikepro/projects/4
-          github-token: ${{ secrets.ADD_TO_PROJECT_PAT }}
-          labeled: img, smm 
-          label-operator: NOT
+          github-token: ${{ secrets.LABBELER_TOKEN }}
+          yaml-file: .github/labels.yml
+          skip-delete: false
+          dry-run: false
+          exclude: |
+            
