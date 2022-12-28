@@ -7,7 +7,7 @@ on:
 
 jobs:
   add-to-project:
-    name: Add issue to project
+    name: Add issue to General
     runs-on: ubuntu-latest
     steps:
       - uses: actions/add-to-project@v0.4.0
@@ -16,10 +16,20 @@ jobs:
           github-token: ${{ secrets.ADD_TO_PROJECT_PAT }}
           labeled: img, smm
           label-operator: NOT
+  add-to-project:
+    name: Add issue to Degingers
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/add-to-project@v0.4.0
         with:
           project-url: https://github.com/orgs/hostlikepro/projects/6
           github-token: ${{ secrets.ADD_TO_PROJECT_PAT }}
           labeled: img
+  add-to-project:
+    name: Add issue to SMM
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/add-to-project@v0.4.0
         with:
           project-url: https://github.com/orgs/hostlikepro/projects/7
           github-token: ${{ secrets.ADD_TO_PROJECT_PAT }}
