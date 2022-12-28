@@ -1,0 +1,15 @@
+name: Workflow Sync
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  file-syncs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Running Workflow Sync
+        uses: jetersen/ghaction.file.sync@v1
+        with:
+          github-token: ${{ secrets.SYNC_TOKEN }}
