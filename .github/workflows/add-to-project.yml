@@ -1,0 +1,26 @@
+name: Add issues to project
+
+on:
+  issues:
+    types:
+      - opened
+
+jobs:
+  add-to-project:
+    name: Add issue to project
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/add-to-project@v0.4.0
+        with:
+          project-url: https://github.com/orgs/hostlikepro/projects/4
+          github-token: ${{ secrets.ADD_TO_PROJECT_PAT }}
+          labeled: img, smm
+          label-operator: NOT
+        with:
+          project-url: https://github.com/orgs/hostlikepro/projects/6
+          github-token: ${{ secrets.ADD_TO_PROJECT_PAT }}
+          labeled: img
+        with:
+          project-url: https://github.com/orgs/hostlikepro/projects/7
+          github-token: ${{ secrets.ADD_TO_PROJECT_PAT }}
+          labeled: smm
