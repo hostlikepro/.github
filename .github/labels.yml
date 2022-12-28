@@ -40,7 +40,6 @@
 - name: "web"
   color: "46AC05"
   description: "Web developers"
-  
 - name: "wontfix"
   color: "ffffff"
   description: "This will not be worked on"
