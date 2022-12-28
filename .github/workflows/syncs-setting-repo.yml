@@ -18,7 +18,9 @@ jobs:
         with:
           REPOSITORIES: |
             hostlikepro/.github-private@main
+            hostlikepro/images@main
+            hostlikepro/hostlike.pro@main
+            hostlikepro/debian_server@main
           FILES: |
             .github/labels.yml=.github/labels.yml
-            test.txt=.github/text.txt
           TOKEN: ${{ secrets.SYNC_TOKEN }}
