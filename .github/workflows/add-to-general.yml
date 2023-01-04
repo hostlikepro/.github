@@ -14,5 +14,3 @@ jobs:
         with:
           project-url: https://github.com/orgs/hostlikepro/projects/4
           github-token: ${{ secrets.ADD_TO_PROJECT_PAT }}
-          labeled: img, smm
-          label-operator: NOT

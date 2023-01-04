@@ -23,7 +23,5 @@ jobs:
             hostlikepro/debian_server@main
           FILES: |
             .github/labels.yml=.github/labels.yml
-            .github/workflows/add-to-designers.yml=.github/workflows/add-to-designers.yml
             .github/workflows/add-to-general.yml=.github/workflows/add-to-general.yml
-            .github/workflows/add-to-smm.yml=.github/workflows/add-to-smm.yml
           TOKEN: ${{ secrets.SYNC_TOKEN }}
