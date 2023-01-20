@@ -20,7 +20,7 @@ jobs:
             hostlikepro/.github-private@main
             hostlikepro/images@main
             hostlikepro/hostlike.pro@main
-            hostlikepro/debian_server@main
+            hostlikepro/server_01@main
           FILES: |
             .github/labels.yml=.github/labels.yml
             .github/workflows/add-to-general.yml=.github/workflows/add-to-general.yml
