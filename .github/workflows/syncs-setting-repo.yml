@@ -21,6 +21,7 @@ jobs:
             hostlikepro/images@main
             hostlikepro/hostlike.pro@main
             hostlikepro/server_01@main
+            hostlikepro/robo-uptime@main
           FILES: |
             .github/labels.yml=.github/labels.yml
             .github/workflows/add-to-general.yml=.github/workflows/add-to-general.yml
