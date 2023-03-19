@@ -19,9 +19,10 @@ jobs:
           REPOSITORIES: |
             hostlikepro/.github-private@main
             hostlikepro/images@main
-            hostlikepro/hostlike.pro@main
+            hostlikepro/www.hostlike.pro@main
             hostlikepro/server_01@main
             hostlikepro/robo-uptime@main
+            hostlikepro/status.hostlike.pro@main
           FILES: |
             .github/labels.yml=.github/labels.yml
             .github/workflows/add-to-general.yml=.github/workflows/add-to-general.yml
